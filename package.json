@@ -1,0 +1,13 @@
+{
+  "name": "kanban",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start:db": "mongod --dbpath ./kanban-db"
+  },
+  "author": "Luminight (http://luminight.dev/)",
+  "license": "ISC",
+  "devDependencies": {
+    "@nestjs/testing": "^9.4.0"
+  }
+}
